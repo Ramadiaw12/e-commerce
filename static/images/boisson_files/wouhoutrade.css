@@ -1,0 +1,518 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 575.98px) {
+
+	.IXCH_{
+		font-size:15px;	
+		
+	}
+	
+}
+
+
+@media (min-width: 575.98px) and (max-width: 767.98px) {
+	
+		.IXCH_{
+		font-size:15px;	
+	}
+}
+
+
+@media (min-width: 767.98px) and (max-width: 991.98px) {
+	
+		.IXCH_{
+		font-size:15px;	
+	}
+}
+
+
+@media (min-width: 991.98px) and (max-width: 1199.98px) {
+	
+	.IXCH_{
+	font-size:15px;	
+	}
+	
+	html{
+		font-size:15px;	
+	}
+}
+
+@media (min-width: 991.98px) and (max-width: 1199.98px) {
+	
+	.IXCH_{
+	font-size:15px;	
+	}
+	
+	html{
+		font-size:15px;	
+	}
+}
+
+
+@media (min-width: 1200px) {
+	.IXCH_{
+		font-size:15px;	
+	}
+	
+	html{
+		font-size:15px;	
+	}
+}
+
+
+form .requis {
+    color: #c00;
+}
+
+
+/* CSS index.jsp */
+.formsearch{
+	width: 50%;
+}
+
+.radio{
+    width: 110px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info-icon-lg{
+	width : 35px;
+	height: 30px;
+}
+
+.row-img-top-categories{
+	height: 85px;
+	width : 100px;
+	text-align: center;
+}
+
+.top-categorie-box h4 {
+    position: relative;
+    font-size: 14px;
+    color: #313131;
+    font-weight: 400;
+    padding: 0px 0px 0px 0px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.row-img-top-categories{
+	height: 80px;
+	width : 100px;
+	text-align: center;
+}
+
+.img-top-categories {
+		width : 90%;
+		height: 120px;
+		padding: 0px;
+		border-radius : 10px;
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+    	justify-content: center;
+    	
+  		
+  		border: solid 1px #efeded;
+    	box-shadow: 0px 2px 2px 0px rgb(37 46 36 / 20%);
+    	text-align: center;
+    	
+    	display: flex;
+}
+
+.b-elm-annonce{
+	border: 1px orange solid;
+	border-radius: 6px;
+}
+
+.image-listing{
+	width: 190px;
+	height: 170px;
+	padding-left: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius : 10px;
+}
+
+.titre{
+	font-size: 17px;
+	
+}
+
+.hrow{
+	line-height:1em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.b-elm-block-aside{
+	border: 1px orange solid;
+}
+
+.style-separateur{
+	margin-top: 20px;
+}
+
+
+.test{
+	border: 1px orange solid;
+}
+
+/* CSS index.jsp */
+
+/* CSS mon-compte.jsp */
+
+.my-row{
+	height: 200px;
+}
+
+
+.mon-compte-icon{
+	width : 80px;
+	height: 60px;
+	border-radius : 5px;
+}
+
+/* CSS details-entreprise.jsp */
+
+.poslogoDetailsEntreprise{
+	background-image: url(../bannieres/banniere.jpg);
+	border-radius : 5px;
+	
+	width:100%;
+	height: 300px;
+	margin-bottom: 5px;
+}
+
+.logo-annuaire{
+	
+	
+	max-height: 35px;
+	
+	
+}
+
+.info-icon{
+	width : 20px;
+	height: 20px;
+}
+
+.icons{
+	min-width : 30px;
+	min-height: 30px;
+	max-width : 40px;
+	max-height: 40px;
+	
+	
+	border-radius : 7px;
+}
+
+.image-listing{
+	width: 215px;
+	height: 195px;
+	padding-left: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius : 10px;
+}
+
+.infos-entreprise{
+  text-align: center;
+}
+
+/* CSS details-entreprise.jsp */
+
+/* CSS details-annonce.jsp */
+
+
+
+
+.hint{
+	width : 10px;
+	height: 15px;
+}
+
+.direct-message-icons{
+	width : 30px;
+	height: 20px;
+}
+
+.test-row-page-details-1{
+	border: 1px green dotted;
+	height: 100px;
+}
+
+
+
+.imgdetails {
+		width : 300px;
+		height: 300px;
+		padding: 0px;
+		border-radius : 10px;
+	}
+	
+.direct-message-icon{
+	width : 20px;
+	height: 22px;
+	border-radius : 5px;
+}
+
+.btn-laisser-message{
+	background-color: white;
+	color: blue;
+	border:white;
+}
+
+.btncontactsupplier{
+	width: 250px;
+	border-radius : 10px;
+	color: white;
+	border: 1px orange solid;
+	background-color: orange;
+	text-align: center;
+    vertical-align: middle;
+}
+
+.note{
+	text-align: justify;
+}
+
+.entreprise-icon{
+	width : 30px;
+	height: 30px;
+	border-radius : 5px;
+	padding: 0px 0px 0px ;
+}
+
+.capacite-approvisionnement{
+	height: 100px;
+}
+
+
+
+.ca-contenu-bloc-emballage{
+	height: 80px;
+	
+}
+
+.entete-de-bloc{
+	height: 40px;
+	
+}
+
+
+.container-details{
+	background-color: #F8F8F8;
+}
+
+
+.logistics-icon{
+	width : 30px;
+	height: 30px;
+	border-radius : 5px;
+	padding: 0px 0px 0px ;
+}
+
+.entete-de-bloc{
+	height: 40px;
+	
+}
+
+.infos-entreprise{
+  text-align: center;
+}
+
+/*** CSS ANNUAIRE ***/
+.b-elm-entreprise{
+	border-radius: 5px;
+}
+
+.img-annuaire{
+  	height:130px;
+  	width:100%;
+}
+
+.img-annuaire-lg{
+  	height:110px;
+  	width:90%;
+}
+
+.img-annuaire-sm{
+  	height:120px;
+  	width:100%;
+}
+
+.img-annuaire-xs{
+  	height:150px;
+  	width:100%;
+}
+
+/****  CSS pour la page mes-annonces.jsp  ****/
+.img-boosters {
+		width : 370px;
+		height: 230px;
+		padding: 0px;
+		border-radius : 10px;
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+
+	}
+
+.image-listing-mes-annonces{
+	width: 80px;
+	height: 80px;
+	padding-left: 0px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border-radius : 5px;
+}
+
+.img-max {
+  height: 100%;
+  min-height:70px;
+  max-height:130px;
+  min-width:70px;
+  max-width: 130px;
+  width:100%;
+}
+
+/****** CSS détails du leads *****/
+.bg-f8{
+	background-color: #f8f8f8;
+}
+
+.tpcs-e{
+	background-color: #fff;
+	border: 1px solid #dbe2ed;
+}
+
+.tpcs-em{
+	background-color: #fff;
+	border: 1px solid #dbe2ed;
+}
+
+
+.suiv-menu-contenu{
+	display: inline-block;
+}
+
+.bbtm {
+	border-bottom : 1px solid #dcdee3;
+}
+.vam{
+	margin-top: 12px;
+	margin-bottom: 12px;
+
+}
+
+.rcorners2 {
+  border-radius: 25px;
+  background-color: #73AD21;
+  text-align:center;
+  vertical-align:middle;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+}
+
+/****** CSS ACHAT DE CREDITS *****/
+
+.test-row-solde-credit{
+	border: 1px green dotted;	
+	font-size: 25px;
+	padding : 2px;
+	margin : 5px;
+	
+}
+
+.moyen-paiement{
+	padding : 0px 15px 0px ;
+}
+
+.test-row-3{
+	border: 1px green dotted;	
+	padding : 2px;
+	margin : 5px;
+	
+}
+
+.test-row-prix{
+	width : 180px;	
+	padding : 3px;
+	margin : 5px;
+}
+
+.test-row{
+	border: 1px green dotted;
+	padding : 2px;
+	margin : 5px;
+}
+
+.package{
+	padding : 25px;
+}
+
+.test-row-solde-credit{
+	border: 1px green dotted;	
+	font-size: 20px;
+	padding : 2px;
+	margin : 5px;	
+}
+
+.btn-valider-package{
+	align: left;
+	padding : 2px;
+}
+
+.row-login-btn-valider{
+	padding: 15px;
+	height: 80px;
+}
+
+.block-vide{
+	margin-top: 400px;
+}
+
+.block-vide-selection-devise{
+	margin-top: 200px;
+}
+
+.block-vide-success-message{
+	margin-top: 330px;
+}
+
+.block-vide-mdp{
+	margin-top: 265px;
+}
+
+.erreur{
+	color:red;
+}
+
+/****** CSS Formulaire résultats de recherche vide *****/
+
+.bg-c{
+	background-color: #f8f8f8;
+}
+
+.row-envoyer-message{
+	padding: 3px;
+	
+}
+
+.rfq-row{
+	height:150px;
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.image-nos-services{
+	width : 190px;
+	height: 150px;
+	border-radius : 5px;
+	border: 1px black dotted;
+}
