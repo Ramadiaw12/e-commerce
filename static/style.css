@@ -688,7 +688,7 @@ input::placeholder{
     padding: 3px;
     padding-bottom: 0%;
 }
-@media screen and (max-width: 1499px) {
+/* @media screen and (max-width: 1499px) {
     nav ul li {
         display: block;
     }
@@ -710,4 +710,4 @@ input::placeholder{
         width: 90%;
     }
 
-}
+} */
